@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Learn Digital Marketing]]></title>
-        <description><![CDATA[Learn Digital Marketing]]></description>
+        <title><![CDATA[Testing The Grid]]></title>
+        <description><![CDATA[Testing The Grid]]></description>
         <link>http://tusharwadhwa.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 13:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 14:49:17 GMT</lastBuildDate>
         <atom:link href="http://tusharwadhwa.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[5 Funniest Car Videos On YouTube and #1 features former Top Gear host Jeremy Clarkson!]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.linkedin.com/pulse/5-funniest-car-videos-youtube-1-features-former-top-gear-wadhwa?trk=mp-reader-card</link>
             <guid isPermaLink="false">017a822d-6ea0-4839-9cf5-4c65c259251d</guid>
             <pubDate>Mon, 13 Jun 2016 13:25:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://media.licdn.com/mpr/mpr/p/1/005/0ad/0fd/3b744dc.jpg">]]></description>
-            <link>http://tusharwadhwa.com/a1d45aef-0c89-48b1-8b96-3ce9f0caa122/index.html</link>
-            <guid isPermaLink="false">a1d45aef-0c89-48b1-8b96-3ce9f0caa122</guid>
-            <pubDate>Mon, 13 Jun 2016 13:22:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
